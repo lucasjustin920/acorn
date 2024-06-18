@@ -59,7 +59,7 @@
     "league/flysystem": "^3.0",
     "ramsey/uuid": "^4.2.2",
     "roots/support": "^1.0",
-    "symfony/error-handler": "^6.0",
+    "symfony/error-handler": "^7.1",
     "symfony/var-dumper": "^6.0",
     "vlucas/phpdotenv": "^5.4.1"
   },
